@@ -3,3 +3,6 @@ Debug
 *.vcxproj.user
 *.vcxproj.filters
 .idea
+x64
+x32
+Release

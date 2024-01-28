@@ -3,7 +3,7 @@
 mkdir ..\build
 pushd ..\build
 
-cl -Zi ..\..\handmade\Handmade\Handmade.cpp User32.lib
+cl -FC -Zi ..\..\handmade\Handmade\Handmade.cpp User32.lib
 
 popd
 
